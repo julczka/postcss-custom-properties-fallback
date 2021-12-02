@@ -1,5 +1,7 @@
 # PostCSS Custom Properties Fallback
 
+## This is a fork of the package above that fixes [this issue](https://github.com/stipsan/postcss-custom-properties-fallback/issues/45).
+
 This plugins adds fallbacks to your [CSS Custom Properties] and works well as a compantion to [PostCSS Custom Properties].
 
 ## Pop Quiz!
